@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "NSObservable"
-  s.version      = "0.0.3"
+  s.version      = "0.0.5"
   s.summary      = "An easy way to observe values in Objective-C!"
 
   # This description is used to generate tags and improve search results.
