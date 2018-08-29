@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "NSObservable"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "An easy way to observe values in Objective-C!"
 
   # This description is used to generate tags and improve search results.
@@ -118,7 +118,7 @@ Pod::Spec.new do |s|
   #  the lib prefix of their name.
   #
 
-  s.framework  = "Foundation"
+  # s.framework  = "Foundation"
   # s.frameworks = "SomeFramework", "AnotherFramework"
 
   # s.library   = "iconv"
