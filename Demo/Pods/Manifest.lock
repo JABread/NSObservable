@@ -1,0 +1,16 @@
+PODS:
+  - NSObservable (0.0.5)
+
+DEPENDENCIES:
+  - NSObservable
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NSObservable
+
+SPEC CHECKSUMS:
+  NSObservable: 6866af929b59765b118e27e6537f82518c157b3b
+
+PODFILE CHECKSUM: de07399ceda0e5387ba2630219149d49055fe5ff
+
+COCOAPODS: 1.6.0.beta.1
